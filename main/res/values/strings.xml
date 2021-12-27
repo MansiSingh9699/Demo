@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Styles and Drawables</string>
+    <string name="header">Instructions to change the signal strength:</string>
+    <!--<string name="instructions">
+        <li>Tap + button to increase signal strength</li>
+        <li>Tap - button to decrease signal strength</li>
+        <li>Tap "turn off" button to turn off the indicator</li>
+    </string>-->
+    <string name="instructions">
+        i) Tap + button to increase signal strength \n
+        ii) Tap - button to decrease signal strength \n
+        iii) Tap "Turn off" button to turn off the indicator
+    </string>
+</resources>
